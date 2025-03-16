@@ -1,1 +1,2 @@
 # HR-Analytics-Dashboard-PowerBI
+HR Analytics Dashboard: This repository contains a Power BI dashboard designed to provide key insights into employee attrition and demographics. The dashboard allows HR professionals to quickly identify trends in attrition by gender, education, age, salary, years at the company, and job role. These insights can be used to develop targeted retention strategies and improve overall employee satisfaction.
